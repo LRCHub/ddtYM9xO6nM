@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ライムライト",
+  "base_artist": "菅原圭",
+  "createdAt": "2026-02-24T09:39:16.181035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WONDERLAND feat.ライムライト",
+      "artist": "AZU",
+      "has_synced": true,
+      "path": "select/01_WONDERLAND_feat.ライムライト_AZU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライムライト",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_ライムライト_菅原_圭.txt"
+    }
+  ]
+}
